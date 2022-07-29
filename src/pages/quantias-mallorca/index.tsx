@@ -107,7 +107,7 @@ const Institutional = () => {
 
           <div>
             <Image src={"/icons/cambio.svg"} width={154} height={154} alt="juros"/>
-            <span>CAMBIO</span>
+            <span>CÂMBIO</span>
           </div>
 
           <div>

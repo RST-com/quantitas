@@ -25,7 +25,7 @@ const Institutional = () => {
               </div>
               <div className={style.divider}></div>
               <div>
-                <p className={style.paragraphBox} >Fundo multimercado com múltiplas estratégias nos mercados de juros, câmbio e bolsa, caracterizado por retornos consistentes ao longo do tempo.</p>
+                <p className={style.paragraphBox} >Fundo de ações com seleção de empresas através de análise fundamentalista, portifólio concentrado (máximo 12 ativos) e gestão ativa dos recursos.</p>
               </div>
             </div>
             <div className={style.bluBoxTimeLine}>
