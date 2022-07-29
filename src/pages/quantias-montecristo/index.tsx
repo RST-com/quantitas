@@ -33,7 +33,7 @@ const Institutional = () => {
                 <li className={style.listItem}>
                   <div className={style.listItemDivider}></div>
                   <Image src={"/icons/perfil-quantia.svg"} width={68} height={68} alt="good" />
-                  <p className={style.listItemText}><strong>PERFIL DE RISCO:</strong> MODERADO</p>
+                  <p className={style.listItemText}><strong>PERFIL DE RISCO:</strong> ARROJADO</p>
                 </li>
                 <li className={style.listItem}>
                   <div className={style.listItemDivider}></div>

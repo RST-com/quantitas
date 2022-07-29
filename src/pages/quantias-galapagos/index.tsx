@@ -36,7 +36,7 @@ const Institutional = () => {
                   <div>
                     <p><strong>PERFIL</strong></p>
                     <p><strong>DE RISCO:</strong></p>
-                    <p>Moderado</p>
+                    <p>MODERADO</p>
                   </div>
                 </li>
                 <li className={style.listItem}>
