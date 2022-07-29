@@ -77,6 +77,7 @@
   letter-spacing: 0px;
   color: #FFFFFF;
   opacity: 1;
+  line-height: 36px;
 }
 
 .divider {
@@ -269,6 +270,7 @@ background: #4C9FCA;
   display: flex;
   ul {
     width: 50%;
+    margin-top: 1px;
 
     &:last-child {
       margin-top: -61px;

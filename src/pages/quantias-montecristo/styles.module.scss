@@ -27,7 +27,7 @@
 
 .blueDarkBox {
   width: 260px;
-  height: 867px;
+  height: 873px;
   background: transparent linear-gradient(180deg, #4C9FCA 0%, #4C9FCA00 100%) 0% 0% no-repeat padding-box;
   border-radius: 15px;
   opacity: 1;
@@ -77,6 +77,7 @@
   letter-spacing: 0px;
   color: #FFFFFF;
   opacity: 1;
+  line-height: 36px;
 }
 
 .divider {
@@ -268,7 +269,8 @@ background: #4C9FCA;
   // background-color: red;
   display: flex;
   ul {
-    width: 50%;
+    // width: 50%;
+    margin-top: 4px;
 
     &:last-child {
       margin-top: -61px;
@@ -300,8 +302,7 @@ background: #4C9FCA;
 
   ul {
     padding: 0;
-    margin: 20px;
-    margin-top: 0px;
+    margin-top: -10px;
   }
 
   ul li {
@@ -312,6 +313,7 @@ background: #4C9FCA;
       text-align: center;
       color: #1B365D;
       font-size: 15px;
+      width: 151px;
     }
   }
 }

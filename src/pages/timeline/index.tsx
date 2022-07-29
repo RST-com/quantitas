@@ -32,7 +32,9 @@ const timeline = () => {
                 <div className={style.pstop}>
                     <p>Criação do Quantitas FIM Arbitragem</p>
                 </div>
-                <span className={style.pssptop}>2014</span>
+                <span style={{
+                    background: "#298EC1",
+                }} className={style.pssptop}>2014</span>
             </li>
             <li>
                 <div className={style.psbot}>
@@ -44,7 +46,9 @@ const timeline = () => {
                 <div className={style.pstop}>
                     <p>Criação do Quantitas FIM Galápagos (multimercado juros e inflação disponível na XP)</p>
                 </div>
-                <span className={style.pssptop}>2018</span>
+                <span style={{
+                    background: "#298EC1",
+                }} className={style.pssptop}>2018</span>
             </li>
             <li>
                 <div className={style.psbot}>
@@ -56,7 +60,9 @@ const timeline = () => {
                 <div className={style.pstop}>
                     <p>Quantitas FIC FIM Mallorca no B2C da XP</p>
                 </div>
-                <span className={style.pssptop}>2020</span>
+                <span style={{
+                    background: "#298EC1",
+                }} className={style.pssptop}>2020</span>
             </li>
             <li>
                 <div className={style.psbot}>
