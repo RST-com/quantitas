@@ -38,12 +38,7 @@ const Institutional = () => {
                 <li className={style.listItem}>
                   <div className={style.listItemDivider}></div>
                   <Image src={"/icons/objetivo.svg"} width={68} height={68} alt="good" />
-                  <p className={style.listItemText}><strong>OBJETIVO DE RETORNO:</strong> CDI+ 4% a.a</p>
-                </li>
-                <li className={style.listItem}>
-                  <div className={style.listItemDivider}></div>
-                  <Image src={"/icons/curva.svg"} width={68} height={68} alt="good" />
-                  <p className={style.listItemText}><strong>OBJETIVO DE VOL:</strong> 5% ANUAL</p>
+                  <p className={style.listItemText}><strong>OBJETIVO DE RETORNO:</strong> SUPERAR O IBOVESPA NO MÉDIO E LONGO PRAZOS <br></br> (36 MESES DE REFERÊNCIA)</p>
                 </li>
               </ul>
             </div>
